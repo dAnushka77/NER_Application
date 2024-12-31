@@ -1,6 +1,4 @@
-# NER_Application
-
-# Entity Extraction with Flask and spaCy
+# Entity Extraction with Flask and spaCy using NER
 
 This project is a simple Flask web application that allows users to upload a text file, and it will display the named entities extracted from the text using the `spaCy` library.
 
